@@ -2,6 +2,9 @@
 
 This is a simple web-based calculator built with HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. This project aims to demonstrate basic web development concepts and interactive web page creation.
 
+![image](https://github.com/Yatten86/SimpleCalculator/assets/90719281/d7db27db-99b2-474b-974b-80832c5d296a)
+
+
 ## Features
 
 - Basic arithmetic operations: addition, subtraction, multiplication, division.
